@@ -2,7 +2,7 @@
 title: "Discussion about Missing Data"
 subtitle: "Understanding and Addressing Missing Data in Exploratory Data Analysis"
 author: Jiwon Choi
-thanks: "Code and data are available at: https://github.com/jwonc4602/Discussion-about-Missing-Data"
+thanks: "Code and data are available at: https://github.com/jwonc4602/Discussion-about-Missing-Data. Reviewed by Heyucheng Zhang, and updated the paper based on the feedback."
 date: today
 date-format: long
 format: pdf
@@ -37,8 +37,8 @@ Handling missing data requires a thoughtful approach that considers the nature o
 
 ## Ethical Considerations in Managing Missing Data
 The ethical implications of handling missing data emphasizes the need for transparency and careful consideration of potential biases. It's crucial to acknowledge how different methods might influence the results and to strive for approaches that minimize harm, especially in sensitive research areas. Collaboration with subject-matter experts and adherence to ethical guidelines ensures the integrity of the analysis and respects the confidentiality and privacy of participants.
-# Conclusion
 
+# Conclusion
 Missing data is a complex issue that necessitates careful consideration and strategic handling in the context of EDA. Understanding the type of missingness—MCAR, MAR, or MNAR—is crucial for choosing an appropriate strategy to address it. Whether through data omission, imputation, or more advanced methods like multiple imputation, the chosen approach must be applied judiciously, with an awareness of its limitations and potential biases. Ultimately, the goal is to minimize the impact of missing data on the analysis, ensuring that the findings are as accurate and reliable as possible. Furthermore, acknowledging and documenting the handling of missing data is essential for transparency and reproducibility in research. As the field evolves, ongoing exploration of methods for managing missing data will remain a key aspect of ensuring the quality and integrity of data analysis.
 
 \newpage
